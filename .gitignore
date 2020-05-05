@@ -1,9 +1,5 @@
 
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/vshaurme.iml
-.idea/workspace.xml
+/.idea
 /.vscode
 /.DS_Store
 *.sqlite3
